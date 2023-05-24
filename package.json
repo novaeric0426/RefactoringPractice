@@ -1,0 +1,16 @@
+{
+    "name": "refactoring",
+    "version": "1.0.0",
+    "description": "practice for refactoring 2nd",
+    "main": "statement.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "novaeric",
+    "license": "ISC",
+    "type": "module",
+    "devDependencies": {
+        "jest": "^29.5.0",
+        "typescript": "^5.0.4"
+    }
+}
